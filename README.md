@@ -41,8 +41,8 @@
                 </tr>
     </table><br><p>
     In this project, if you enter an invalid number, it will be printed :<br>
-    <code>Sorry, the number is not found </code></p><br><p>
-    If you enter a number less than ten digits, it will be printed :<br>
-    <code>This is invalid number</code></p>
+    <ol><li><code>Sorry, the number is not found</li></ol></code></p><br>
+    <p>If you enter a number less than ten digits, it will be printed :<br>
+    <ol><li><code>This is invalid number</li></ol></code></p>
     <p>You can also search using the name of the owner of the number and add other numbers, and when adding a new number, the information of the new number will be printed</p>    
     
